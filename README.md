@@ -17,7 +17,7 @@ Learning rate (taxa de aprendizagem)
 
 Momentum (momento)
 
-
+![](https://img.shields.io/badge/python-3.9-informational?style=flat&logo=python&logoColor=white&color=blue)
 
 
 

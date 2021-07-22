@@ -1,5 +1,3 @@
- 🧠️ +  🤖️
-
 Estudo parcial redes neurais perceptron, multicamada.
 
 Calculos :
